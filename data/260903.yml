@@ -1,17 +1,19 @@
 about:
-  description: A stricter gofmt
+  description:
+  |
+    A stricter gofmt
   license: BSD-3-Clause
   homepage: https://pkg.go.dev/mvdan.cc/gofumpt
   head: 05e0adf
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-03T05:12:23Z
+  collectedAt: 2026-09-03T22:37:37Z
 timeline:
   created: 2019-03-31
   lastCommit: 2026-09-02
   lastRelease: 2026-07-27
 popularity:
-  star: 4071
+  star: 4073
   watcher: 12
   fork: 134
   release: 16
@@ -20,7 +22,7 @@ popularity:
   issue: 236
 language:
   Go: 276822
-totalLine: 276822
+totalBytes: 276822
 recent:
   last30d:
     since: 2026-08-04
