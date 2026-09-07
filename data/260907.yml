@@ -5,7 +5,7 @@ about:
   head: e0311de
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T04:41:41Z
+  collectedAt: 2026-09-07T19:44:51Z
 timeline:
   created: 2019-03-31
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 4074
   watcher: 12
-  fork: 134
+  fork: 135
   release: 16
   contributor: 41
-  pullRequest: 118
+  pullRequest: 120
   issue: 237
 language:
   Go: 276818
@@ -79,7 +79,7 @@ total:
   commit: 361
 ---
 path: /home/runner/.x-repo/github.com/mvdan/gofumpt
-collectedAt: 2026-09-07T04:41:42Z
+collectedAt: 2026-09-07T19:44:52Z
 loc:
   Go:
     code: 6785
@@ -198,7 +198,7 @@ checks:
       - 'Warn: no status checks found to merge onto branch ''master'''
 ---
 eget:
-  collectedAt: 2026-09-07T04:41:43+00:00
+  collectedAt: 2026-09-07T19:44:52+00:00
   platform:
     darwin/arm64:
       name:  gofumpt_v0.11.0_darwin_arm64
