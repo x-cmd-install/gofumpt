@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3148210,
       "digest": "sha256:1a3e325b956ed12c21031d9e13382bd51a4fabb57de8d40428819b9583c3cfb9",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-09-07T22:36:16Z",
       "updated_at": "2026-09-07T22:36:17Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_darwin_arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3289248,
       "digest": "sha256:3bc4fcad497439918f5f56d4987de4709a99da0a355e6bec13a7278532b01d38",
-      "download_count": 26,
+      "download_count": 39,
       "created_at": "2026-09-07T22:36:16Z",
       "updated_at": "2026-09-07T22:36:16Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3425792,
       "digest": "sha256:66bd679908b64864fc85417e7ea01148774b477364b9a02ab1c194333a55c997",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-07T22:36:13Z",
       "updated_at": "2026-09-07T22:36:14Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_windows_amd64.exe"
@@ -330,13 +330,13 @@
   "body": "This release is based on Go 1.27's gofmt, and requires Go 1.26 or later.\r\n\r\nA standard library import carrying a doc or inline comment is no longer moved into the top import group, as the comment stayed behind and ended up detached at the bottom of the group. See #289.\r\n\r\nMoving a standard library import up no longer leaves an empty line where it used to be, which split the remaining imports into extra groups. See #225.\r\n\r\nA copyright header or package doc no longer makes gofumpt treat a single-line first declaration as multi-line, adding an empty line after it.\r\n\r\nAn assignment whose right-hand side is separated by a comment is now left alone, as merging the lines produced output which gofmt would change back.\r\n\r\nConsider [becoming a sponsor](https://github.com/sponsors/mvdan) if you benefit from the work that went into this release!\r\n\r\nBinaries built on `go version go1.27.1 linux/amd64` with:\r\n\r\n\tCGO_ENABLED=0 go build -trimpath -ldflags=\"-w -s\"",
   "reactions": {
     "url": "https://api.github.com/repos/mvdan/gofumpt/releases/384345044/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 2,
+    "heart": 3,
     "rocket": 0,
     "eyes": 0
   }
