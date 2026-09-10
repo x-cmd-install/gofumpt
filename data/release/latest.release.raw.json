@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3328592,
       "digest": "sha256:1d3626892a321aca96a891696eaecb8f68e69e90582c2b55672d5ca210fd5fa8",
-      "download_count": 38,
+      "download_count": 40,
       "created_at": "2026-09-07T22:36:17Z",
       "updated_at": "2026-09-07T22:36:18Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3148210,
       "digest": "sha256:1a3e325b956ed12c21031d9e13382bd51a4fabb57de8d40428819b9583c3cfb9",
-      "download_count": 87,
+      "download_count": 97,
       "created_at": "2026-09-07T22:36:16Z",
       "updated_at": "2026-09-07T22:36:17Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3047584,
       "digest": "sha256:b6cb36645e29c269e421ca89dbe547207ec245b50d3d1b0627708f823f243b47",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-07T22:36:16Z",
       "updated_at": "2026-09-07T22:36:16Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_386"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3289248,
       "digest": "sha256:3bc4fcad497439918f5f56d4987de4709a99da0a355e6bec13a7278532b01d38",
-      "download_count": 271,
+      "download_count": 329,
       "created_at": "2026-09-07T22:36:16Z",
       "updated_at": "2026-09-07T22:36:16Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3211424,
       "digest": "sha256:06d51c01c6ca68a5aae040b801d668ca5916a4c1b8323ed021fa7ce7d5e064ab",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-07T22:36:15Z",
       "updated_at": "2026-09-07T22:36:16Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_arm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3211424,
       "digest": "sha256:4322f081241ab0618356aa5921a8c110e4c7acfc17175cc15dc57b2f4a4b652d",
-      "download_count": 84,
+      "download_count": 97,
       "created_at": "2026-09-07T22:36:14Z",
       "updated_at": "2026-09-07T22:36:15Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3425792,
       "digest": "sha256:66bd679908b64864fc85417e7ea01148774b477364b9a02ab1c194333a55c997",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-09-07T22:36:13Z",
       "updated_at": "2026-09-07T22:36:14Z",
       "browser_download_url": "https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_windows_amd64.exe"
