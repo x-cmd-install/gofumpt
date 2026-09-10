@@ -23,7 +23,19 @@ x install gofumpt
 - **Latest**: `v0.12.0` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 8
-- **Published**: 2026-09-07T22:38:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gofumpt_v0.12.0_darwin_amd64](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_darwin_amd64) | 3.2 MiB | `native/darwin/x64` |
+| [gofumpt_v0.12.0_darwin_arm64](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_darwin_arm64) | 3.0 MiB | `native/darwin/arm64` |
+| [gofumpt_v0.12.0_linux_386](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_386) | 2.9 MiB | `other` |
+| [gofumpt_v0.12.0_linux_amd64](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_amd64) | 3.1 MiB | `native/linux/x64` |
+| [gofumpt_v0.12.0_linux_arm](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_arm) | 3.1 MiB | `native/linux/arm` |
+| [gofumpt_v0.12.0_linux_arm64](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_linux_arm64) | 3.1 MiB | `native/linux/arm64` |
+| [gofumpt_v0.12.0_windows_386.exe](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_windows_386.exe) | 3.0 MiB | `native/win/x64` |
+| [gofumpt_v0.12.0_windows_amd64.exe](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_windows_amd64.exe) | 3.3 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -37,9 +49,9 @@ x install gofumpt
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 2 | 0 | 14 |
-| 90d | 2026-06-12 | 2 | 0 | 0 | 4 | 0 | 21 |
-| 360d | 2025-09-15 | 4 | 2 | 0 | 19 | 1 | 52 |
+| 30d | 2026-08-11 | 1 | 0 | 0 | 2 | 0 | 0 |
+| 90d | 2026-06-12 | 2 | 0 | 0 | 4 | 0 | 0 |
+| 360d | 2025-09-15 | 4 | 2 | 0 | 19 | 1 | 0 |
 
 ## Code size
 
@@ -66,8 +78,8 @@ Lowest-scoring checks:
 Install metadata for gofumpt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gofumpt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gofumpt.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gofumpt.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:39:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:46:05Z._
