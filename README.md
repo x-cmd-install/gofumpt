@@ -14,11 +14,11 @@ x install gofumpt
 
 ## Code insight
 
-Total: **7,272** lines of code across **33** files in the top 5 languages.
+Total: **7,277** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,272 | 2,349 | 911 | 29 |
+| Go | 7,277 | 2,354 | 911 | 29 |
 | Markdown | 0 | 613 | 294 | 3 |
 | Text | 0 | 1 | 0 | 1 |
 
@@ -29,8 +29,8 @@ Overall score: **4.3 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **SAST** (0/10) — no SAST tool detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.12.0` (2026-09-07)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 4,094 · **Forks**: 135 · **Open issues**: 238 · **Contributors**: 41
+- **Stars**: 4,095 · **Forks**: 135 · **Open issues**: 238 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 95 · **Open PRs**: 1 · **Closed issues**: 225 · **Open issues**: 13 · **Commits**: 426
+- **Releases**: 17 · **Merged PRs**: 95 · **Open PRs**: 1 · **Closed issues**: 226 · **Open issues**: 12 · **Commits**: 427
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 1 | 1 | 64 |
-| last60d | 2026-08-13 | 1 | 0 | 0 | 2 | 1 | 78 |
-| 90d | 2026-07-14 | 2 | 0 | 0 | 2 | 1 | 81 |
-| last180d | 2026-04-15 | 3 | 0 | 0 | 5 | 1 | 106 |
-| 360d | 2025-10-17 | 4 | 2 | 0 | 16 | 2 | 114 |
-| last720d | 2024-10-22 | 7 | 6 | 0 | 33 | 2 | 148 |
+| 30d | 2026-09-13 | 0 | 0 | 0 | 2 | 0 | 65 |
+| last60d | 2026-08-14 | 1 | 0 | 0 | 3 | 0 | 79 |
+| 90d | 2026-07-15 | 2 | 0 | 0 | 3 | 0 | 82 |
+| last180d | 2026-04-16 | 3 | 0 | 0 | 6 | 0 | 107 |
+| 360d | 2025-10-18 | 4 | 2 | 0 | 17 | 1 | 115 |
+| last720d | 2024-10-23 | 7 | 6 | 0 | 34 | 1 | 149 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for gofumpt lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:59:24Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:45:57Z._
