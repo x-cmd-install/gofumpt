@@ -28,9 +28,9 @@ Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — no SAST tool detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 2 | 0 | 32 |
-| last60d | 2026-08-21 | 1 | 0 | 0 | 2 | 0 | 76 |
-| 90d | 2026-07-22 | 2 | 0 | 0 | 3 | 0 | 82 |
-| last180d | 2026-04-23 | 3 | 0 | 0 | 6 | 0 | 107 |
-| 360d | 2025-10-25 | 3 | 2 | 0 | 14 | 1 | 115 |
-| last720d | 2024-10-30 | 7 | 6 | 0 | 33 | 1 | 149 |
+| 30d | 2026-09-21 | 0 | 0 | 0 | 2 | 0 | 32 |
+| last60d | 2026-08-22 | 1 | 0 | 0 | 2 | 0 | 76 |
+| 90d | 2026-07-23 | 2 | 0 | 0 | 3 | 0 | 82 |
+| last180d | 2026-04-24 | 3 | 0 | 0 | 6 | 0 | 107 |
+| 360d | 2025-10-26 | 3 | 2 | 0 | 14 | 1 | 115 |
+| last720d | 2024-10-31 | 7 | 6 | 0 | 33 | 1 | 149 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for gofumpt lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:51:42Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:38:58Z._
