@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,102 · **Forks**: 136 · **Open issues**: 238 · **Contributors**: 41
+- **Stars**: 4,100 · **Forks**: 135 · **Open issues**: 238 · **Contributors**: 41
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 2 | 0 | 32 |
-| last60d | 2026-08-22 | 1 | 0 | 0 | 2 | 0 | 76 |
-| 90d | 2026-07-23 | 2 | 0 | 0 | 3 | 0 | 82 |
-| last180d | 2026-04-24 | 3 | 0 | 0 | 6 | 0 | 107 |
-| 360d | 2025-10-26 | 3 | 2 | 0 | 14 | 1 | 115 |
-| last720d | 2024-10-31 | 7 | 6 | 0 | 33 | 1 | 149 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 1 | 0 | 32 |
+| last60d | 2026-08-23 | 1 | 0 | 0 | 2 | 0 | 76 |
+| 90d | 2026-07-24 | 2 | 0 | 0 | 3 | 0 | 82 |
+| last180d | 2026-04-25 | 3 | 0 | 0 | 6 | 0 | 107 |
+| 360d | 2025-10-27 | 3 | 2 | 0 | 14 | 1 | 115 |
+| last720d | 2024-11-01 | 7 | 6 | 0 | 33 | 1 | 149 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for gofumpt lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:38:58Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:05Z._
