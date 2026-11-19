@@ -1,50 +1,3 @@
-- repo: homebrew
-  srcname: gofumpt
-  visiblename: gofumpt
-  version: 0.12.0
-  origversion: null
-  status: newest
-  summary: Stricter gofmt
-- repo: homebrew
-  srcname: gofumpt
-  visiblename: gofumpt
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Stricter gofmt
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: gofumpt
-  binname: gofumpt
-  visiblename: gofumpt
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: A strict formatter for Go language
-  licenses:
-    - BSD-3-Clause
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gofumpt
-  binname: gofumpt
-  visiblename: gofumpt
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: A strict formatter for Go language
-  licenses:
-    - BSD-3-Clause
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: gofumpt
-  binname: gofumpt
-  visiblename: gofumpt
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: A strict formatter for Go language
-  licenses:
-    - BSD-3-Clause
 - repo: arch
   subrepo: extra
   srcname: gofumpt
@@ -98,6 +51,53 @@
   origversion: null
   status: outdated
   summary: Formats Go files with a stricter ruleset than gofmt
+- repo: homebrew
+  srcname: gofumpt
+  visiblename: gofumpt
+  version: 0.12.0
+  origversion: null
+  status: newest
+  summary: Stricter gofmt
+- repo: homebrew
+  srcname: gofumpt
+  visiblename: gofumpt
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Stricter gofmt
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gofumpt
+  binname: gofumpt
+  visiblename: gofumpt
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: A strict formatter for Go language
+  licenses:
+    - BSD-3-Clause
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gofumpt
+  binname: gofumpt
+  visiblename: gofumpt
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: A strict formatter for Go language
+  licenses:
+    - BSD-3-Clause
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gofumpt
+  binname: gofumpt
+  visiblename: gofumpt
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: A strict formatter for Go language
+  licenses:
+    - BSD-3-Clause
 - repo: nix_stable_24_05
   srcname: gofumpt
   visiblename: gofumpt
