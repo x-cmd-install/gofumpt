@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 1 | 1 | 32 |
-| 90d | 2026-08-27 | 1 | 0 | 0 | 2 | 1 | 76 |
-| last180d | 2026-05-29 | 2 | 0 | 0 | 5 | 1 | 86 |
-| 360d | 2025-11-30 | 3 | 2 | 0 | 10 | 1 | 115 |
-| last720d | 2024-12-05 | 7 | 5 | 0 | 31 | 2 | 149 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 90d | 2026-08-28 | 1 | 0 | 0 | 2 | 1 | 0 |
+| last180d | 2026-05-30 | 2 | 0 | 0 | 5 | 1 | 0 |
+| 360d | 2025-12-01 | 3 | 2 | 0 | 10 | 1 | 0 |
+| last720d | 2024-12-06 | 7 | 5 | 0 | 31 | 2 | 149 |
 
 ## Release assets
 
@@ -76,6 +76,17 @@ Lowest-scoring checks:
 | [gofumpt_v0.12.0_windows_386.exe](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_windows_386.exe) | 3.0 MiB | `native/win/x64` |
 | [gofumpt_v0.12.0_windows_amd64.exe](https://github.com/mvdan/gofumpt/releases/download/v0.12.0/gofumpt_v0.12.0_windows_amd64.exe) | 3.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **19** distros on [repology.org](https://repology.org/project/gofumpt). **3** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.10.0` | ⚠️ outdated |
+| Homebrew | `0.12.0` | ✅ latest |
+| Nix unstable | `0.12.0` | ✅ latest |
+| Void | `0.9.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gofumpt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gofumpt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +96,4 @@ Install metadata for gofumpt lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:23:37Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:13:27Z._
